@@ -10,7 +10,3 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # RAM
 PRODUCT_PROPERTY_OVERRIDES += \
 	ro.config.low_ram=false
-
-# Telephony
-PRODUCT_PROPERTY_OVERRIDES += \
-	telephony.lteOnCdmaDevice=0
